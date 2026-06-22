@@ -1,0 +1,8 @@
+{
+  "name": "꼼꼼희 청소전문 랜딩페이지",
+  "description": "광고 유입 및 DB 수집을 극대화하기 위한 고품격 입주/이사 청소 전문 랜딩페이지",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
